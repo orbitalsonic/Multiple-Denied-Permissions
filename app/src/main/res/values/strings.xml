@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MultipleDeniedPermission</string>
+
+    <string name="ask_for_permission">Ask For Permission</string>
+    <string name="permission_screen">Permission Screen</string>
+    <string name="no_permission_is_granted">No Permission is granted!</string>
+    <string name="all_permission_granted">All Permissions are successfully granted!, Now do your work.</string>
+    <string name="please_grant_permission">Please grant permission to access sample things…</string>
+    <string name="allow_permissoin_settings">Allow permission from \'Setting\' to proceed</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="enable">Enable</string>
+    <string name="setting">Setting</string>
+    <string name="cancel">Cancel</string>
+</resources>
